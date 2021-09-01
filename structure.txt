@@ -1,0 +1,19 @@
+PyCodes/
+  │
+  ├── application.py
+    └── frontend_methods.py
+      └── performance_evaluation.py
+        └── backend_methods.py
+          └── graph_network.py
+            └── board_configuration.py
+            └── visual_configuration.py
+          └── solver_recursive_backtracking.py
+            └── board_configuration.py
+          └── solver_constrained_system_equations.py
+            └── board_configuration.py
+          └── solver_stochastic.py
+            └── board_configuration.py
+          └── solver_dancing_links.py
+            └── board_configuration.py
+
+##
